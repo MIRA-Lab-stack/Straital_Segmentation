@@ -4,3 +4,5 @@ This project uses a Multi-Task Learning network for striatal segmentation using 
 
 The following code will be available once the manuscript "Multi-Task Learning based 3-Dimensional Striatal Segmentation of MRI – a Multi-modal Objective Assessment"
 has been accepted.
+
+If there are any questions in the implementation of the code, pelase email miralab.sbu@gmail.com
