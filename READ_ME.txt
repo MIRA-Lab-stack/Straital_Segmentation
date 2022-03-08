@@ -23,6 +23,8 @@ This can be edited in any txt file editor. Tensorflow looks for the checkpoint p
 
 Change any mention of '/Your_directory/network_weights/' to the directory where you have downloaded this github repository.
 
+You'll also want to unzip the file '/network_weights/model.data.zip
+
 2)
 
 The next step is data organization. You will need to have a data directory structured as:
